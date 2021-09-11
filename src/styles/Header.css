@@ -31,7 +31,7 @@
 
 .header__searchIcon {
 	padding: 5px;
-	background-color: #cd9042;
+	background-color: var(--main-color);
 }
 
 .header__nav {
@@ -64,5 +64,5 @@
 
 .header__basketCount {
 	margin: 0 10px;
-	color: #cd9042;
+	color: var(--main-color);
 }

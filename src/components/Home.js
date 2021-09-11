@@ -14,6 +14,7 @@ function Home() {
 				{/* Look into refactoring with CSS Grid */}
 				<div className="home__row">
 					{/* Product */}
+					<Product title="The Lean Startup" price={19.99} />
 					{/* Product */}
 				</div>
 				<div className="home__row">
